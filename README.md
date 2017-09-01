@@ -1,6 +1,6 @@
 # hello-world
 the first
 
-o: h0I! Glenna here, a freshie at Cornell. #winterbreak #productive #notreally
+Hi! Glenna here, a freshie at Cornell.
 
-Just getting to know GitHub~~
+Just getting to know GitHub~
